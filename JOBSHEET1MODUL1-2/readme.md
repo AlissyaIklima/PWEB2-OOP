@@ -3,7 +3,7 @@ Didalam modul kali ini kita mempelajari class dan objek, Implementasi Constructo
 
 ## Jobsheet 2: Menggunakan Konsep Kelas dan Objek dalam PHP
 
-## JOBSHEET 1
+## JOB 1
 
 ```php
 <?php
@@ -46,7 +46,7 @@ Objek baru memunculkan nama, nim, jurusan. Dan disaat menampilkan objek baru mak
 
 [COM](https://www.warungbelajar.com/)
 
-## JOBSHEET 2
+## JOB 2
 
 ```php
 <?php
@@ -92,7 +92,7 @@ Objek baru menampilkan nama, nim, jurusan, dan objek baru  mahasiswa1 akan menam
 
 [COM](https://www.warungbelajar.com/)
 
-## JOBSHEET 1
+## JOB 3
 
 ```php
 <?php
@@ -153,7 +153,7 @@ objek baru yang dibuat menampilkan sebelum di update yang berisi nama, nim, juru
 
 [COM](https://www.warungbelajar.com/)
 
-## JOBSHEET 4
+## JOB 4
 
 ```php
 <?php
