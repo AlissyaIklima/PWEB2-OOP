@@ -1,5 +1,5 @@
 # MODUL 3 DAN 4
-# JOBSHEET 1
+# JOB 1
 Object-Oriented Programming (OOP) adalah paradigma pemrograman yang memodelkan masalah dunia nyata menggunakan konsep objek, seperti class dan object. Prinsip
 
 ```php
@@ -40,7 +40,7 @@ dan dibagian objekpun meng echo tampilkanData();
 
 [COM](https://www.warungbelajar.com/)
 ----------------------------------------
-# JOBSHEET 2
+# JOB 2
 
 Object-Oriented Programming (OOP) adalah paradigma pemrograman yang memodelkan masalah dunia nyata menggunakan konsep objek, seperti class dan object. Prinsip
 
@@ -107,7 +107,7 @@ dalam output kali ini menggunakan get dan set. get itu untuk mengambil value, se
 [COM](https://www.warungbelajar.com/)
 
 ----------------------------------------
-# JOBSHEET 3
+# JOB 3
 
 Object-Oriented Programming (OOP) adalah paradigma pemrograman yang memodelkan masalah dunia nyata menggunakan konsep objek, seperti class dan object. Prinsip
 
@@ -163,7 +163,7 @@ dikarenakan saat membuat metode get di dalam class pengguna hanya menambahkan ge
 [COM](https://www.warungbelajar.com/)
 
 ----------------------------------------
-# JOBSHEET 4
+# JOB 4
 
 Object-Oriented Programming (OOP) adalah paradigma pemrograman yang memodelkan masalah dunia nyata menggunakan konsep objek, seperti class dan object. Prinsip
 
@@ -226,7 +226,7 @@ kenapa dibagian objek hanya menampilkan echo aksesFitur(), dikarenakan pada saat
 
 [COM](https://www.warungbelajar.com/)
 ----------------------------------------
-# JOBSHEET 5
+# JOB 5
 
 Object-Oriented Programming (OOP) adalah paradigma pemrograman yang memodelkan masalah dunia nyata menggunakan konsep objek, seperti class dan object. Prinsip
 
